@@ -1,0 +1,98 @@
+.container
+{
+  background-color: white;
+  height:300px;
+  width:300px;
+  position: relative;
+}
+
+.kwadrat
+{
+  height: 100px;
+  width:100px;
+  border:1px solid white;
+}
+
+.linia2
+{
+  position:absolute;
+  top:100px;
+  width: 300px;
+}
+
+.linia3
+{
+  position:absolute;
+  bottom:0px;
+  width:300px;
+}
+
+.kol2
+{
+  position:absolute;
+  left:100px;
+  top:0px;
+}
+
+.kol3
+{
+  position:absolute;
+  right:0px;
+  top:0px;
+}
+
+.czerwony
+{
+  background-color: red;
+}
+
+.niebieski
+{
+  background-color: blue;
+}
+
+.zielony
+{
+  background-color: green;
+}
+
+.zolty
+{
+  background-color: yellow;
+}
+
+.czarny
+{
+  background-color: black;
+}
+
+.pomaranczowy
+{
+  background-color:orange;
+}
+
+.fioletowy
+{
+  background-color: violet;
+}
+
+.szary
+{
+  background-color: gray;
+}
+
+.rozowy
+{
+  background-color:pink;
+}
+
+.kolo
+{
+  width: 50%;
+  height: 50%;
+  border: 1px solid black;
+  border-radius: 50%;
+  top:25px;
+  left:25px;
+  position:relative;
+}
